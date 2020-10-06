@@ -2,7 +2,7 @@
 <html>
 <br>
 <p align="left">
-<a href="https://github.com/pmeleroa"><img src="/images/me.jpeg" height="auto" width="200" style="border-radius:50%"></a>
+<a href="https://github.com/pmeleroa"><img src="/images/me.jpeg" height="auto" width="200"></a>
 
 <p>
 </html>
@@ -36,7 +36,7 @@ Acostumbrado a trabajar en **entornos multidisciplinares** y de **constante camb
 > - :scream: Compartir **inquietudes** existenciales ! <br><br>
 >  *No tengo miedo de hablar y decir las cosas que quiero, o hacer las cosas que quiero. As&iacute; que creo que al final ser natural y ser realmente genuino es lo que gana, y espero que salga en mi "code"*
 > <br><br>- Pablo Melero Alonso<br><br>
-> <img src="images/quote.png" style="width:150px">
+> <img src="images/quote.png" style="width:300">
 
 
 
