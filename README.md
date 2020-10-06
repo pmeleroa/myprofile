@@ -2,7 +2,7 @@
 <html>
 <br>
 <p align="left">
-<img src="/images/me.jpeg" alt="Hola que tal?"style="border-radius: 50%;">
+<img src="/images/me.jpeg" alt="Hola que tal?" style="border-radius: 50%;">
 <p>
 </html>
 
