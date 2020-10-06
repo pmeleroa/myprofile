@@ -33,10 +33,9 @@ Acostumbrado a trabajar en **entornos multidisciplinares** y de **constante camb
 > - :wink: Compartir **utilidades** de mi d&iacute;a a d&iacute;a, las cuales entiendo que ayudarán a todo aquel "curioso" como yo.
 > - :innocent: Compartir **experiencias** adquiridas, que no seamos siempre los que "*tropezamos dos (e incluso más veces) con la misma piedra*".
 > - :scream: Compartir **inquietudes** existenciales !
-
 >  *No tengo miedo de hablar y decir las cosas que quiero, o hacer las cosas que quiero. As&iacute; que creo que al final ser natural y ser realmente genuino es lo que gana, y espero que salga en mi "code"*
-<br><br>** -Pablo Melero Alonso ** <br><br>
-<img src="images/quote.png" style="width:300px">
+<br><br>- Pablo Melero Alonso<br><br>
+<img src="images/quote.png" style="width:150px">
 
 
 
