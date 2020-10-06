@@ -2,7 +2,8 @@
 <html>
 <br>
 <p align="left">
-<img src="/images/me.jpeg" alt="Hola que tal?" style="border-radius: 50%;">
+<a href="https://github.com/pmeleroa"><img src="/images/me.jpeg" height="auto" width="200" style="border-radius:50%"></a>
+
 <p>
 </html>
 
