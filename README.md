@@ -11,9 +11,9 @@
 <html>
 <p align="left">
 <br>
-<img src="https://img.shields.io/static/v1?label=Kafka&message=Classical%20Pub/Sub,%20Streaming,%20Connect,%20DevOps,%20Confluent&style=for-the-badge&logo=Apache%20Kafka&logoColor=white&color=rgb(102,102,153)"><br><br>
-<img src="https://img.shields.io/static/v1?label=Kubernetes&message=Containers,%20Security,%20Orchestation,%20DevOps,%20Openshift,%20AKS&style=for-the-badge&logo=Kubernetes&logoColor=white&color=rgb(51,51,255)"><br><br>
-<img src="https://img.shields.io/static/v1?label=Cloud%20Computing&message=Azure,%20Google%20Cloud,%20IBM%20Cloud,%20IaaC,%20PaaS,%20SaaS&style=for-the-badge&logo=iCloud&logoColor=white&color=rgb(153,0,204)">
+<img src="https://img.shields.io/static/v1?label=Kafka&message=Security,%20Pub/Sub,%20Streaming,%20Connect%20%26%20Connectors&style=for-the-badge&logo=Apache%20Kafka&logoColor=white&color=rgb(102,102,153)"><br><br>
+<img src="https://img.shields.io/static/v1?label=Kubernetes&message=Security,%20Orchestation,%20DevOps&style=for-the-badge&logo=Kubernetes&logoColor=white&color=rgb(51,51,255)"><br><br>
+<img src="https://img.shields.io/static/v1?label=Cloud%20Computing&message=Azure,%20Google%20Cloud,%20IBM%20Cloud,%20IaaS,%20PaaS,%20SaaS&style=for-the-badge&logo=iCloud&logoColor=white&color=rgb(153,0,204)">
 </p>
 </html>
 
